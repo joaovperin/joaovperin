@@ -6,7 +6,7 @@
 My first name is <u>João Victor</u>, but everyone call me only `Perin`.<br/><br/>
 I'm a `Java` backend developer that uses a lot of `Spring` and `JPA`, but my passion is about creating generic and reusable code to help other programmers life.
 
-I do frontend too, having some experience with `Flutter`, `Angular` and `Android/Java` applicationss.
+I do frontend too, having some experience with `Flutter`, `Angular` and `Android/Java` applications.
 
 My passion for now is `Flutter`, and I'm currently studying the creation of maintanable multiplatform applications using this beautiful framework.
 
