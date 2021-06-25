@@ -14,7 +14,7 @@ My passion for now is `Flutter`, and I'm currently studying the creation of main
 
 # Some facts about me:
 
-- ✨ I develop since 2016
+- ✨ I work as a developer since 2016
 - 🎸 I play electric guitar and I love 🤘🏻 rock music 🤘🏻
 - 🇧🇷  I live in Brazil at state of 🧉 Rio Grande do Sul 🍖
 - ⚡ I'm also an electronics technician
