@@ -18,7 +18,7 @@ My passion for now is `Flutter`, and I'm currently studying the creation of main
 - 🎸 I play electric guitar and I love 🤘🏻 rock music 🤘🏻
 - 🇧🇷  I live in Brazil at state of 🧉 Rio Grande do Sul 🍖
 - ⚡ I'm also an electronics technician
-- 🎮 I play games (in my <s>almost non-existent</s> free time)
+- 🎮 I love to play games when I have free time
 - 🔭 I’m currently working on `Makish App` for [Web](https://makish-app.web.app) and [Android](https://play.google.com/store/apps/details?id=br.com.makish)
 
 <br/>
